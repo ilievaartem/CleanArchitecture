@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DogMateCleanArch.API.props" />
+</Project>

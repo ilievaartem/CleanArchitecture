@@ -1,0 +1,15 @@
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\bin\Debug\net8.0\DogMateCleanArch.Application.deps.json
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\bin\Debug\net8.0\DogMateCleanArch.Application.dll
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\bin\Debug\net8.0\DogMateCleanArch.Application.pdb
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.csproj.AssemblyReference.cache
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.AssemblyInfoInputs.cache
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.AssemblyInfo.cs
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.csproj.CoreCompileInputs.cache
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateC.DBB294F9.Up2Date
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.dll
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\refint\DogMateCleanArch.Application.dll
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\DogMateCleanArch.Application.pdb
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\obj\Debug\net8.0\ref\DogMateCleanArch.Application.dll
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\bin\Debug\net8.0\DogMateCleanArch.Domain.dll
+D:\tomil\RiderProjects\DogMateCleanArch\DogMateCleanArch.Application\bin\Debug\net8.0\DogMateCleanArch.Domain.pdb
